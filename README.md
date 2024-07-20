@@ -4,8 +4,8 @@
 
 
 
-   <h5>👾 Web development 👾</h5>
-   <h5>🎓 Systems Analysis and Development 🎓</h5>
+   <h4>👾 Web development 👾</h4>
+   <h4>🎓 Systems Analysis and Development 🎓</h4>
 </div>
 
 
@@ -35,9 +35,9 @@
   <img align="center" alt="Lukieyh-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Lukieyh-NOTION" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
 
-  
+  <br><br>
 
-  <div align="center" style="margin-top: 80px">
+  <div align="center">
   <a href="https://github.com/lukieyh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukieyh&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukieyh&layout=compact&langs_count=7&theme=chartreuse-dark"/>
